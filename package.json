@@ -6,7 +6,8 @@
     "dev": "next dev -p 4000",
     "build": "next build",
     "start": "next start -p 4000",
-    "lint": "next lint"
+    "lint": "next lint",
+    "format": "npx @biomejs/biome format --write ./src"
   },
   "dependencies": {
     "biome": "^0.2.2",
