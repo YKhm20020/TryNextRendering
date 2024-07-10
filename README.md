@@ -1,3 +1,7 @@
+# TryNextRendering
+
+輪講用に構築した Next.js ページ。レンダリング手法の違いについて確認する。
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
